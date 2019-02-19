@@ -122,7 +122,7 @@
 
         $(function() {
             element.typed({
-                strings: ["Future Data Scientist.", "Futurist.", "100% Geek.", "Fan of Clever Technology."],
+                strings: ["Data Science Lover.", "Futurist.", "100% Geek.", "Fan of Clever Technology."],
                 typeSpeed: 100,
                 loop: true,
             });
